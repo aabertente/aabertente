@@ -2,9 +2,6 @@
 
 ## Hi there! I am Abdellah, Junior Data Scientist
 
-- [Profile Visitors](https://github.com/jwenjian/visitor-badge)
-
-
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/jwenjian.jwenjian.svg)
 
 **Languages and tools:**  
