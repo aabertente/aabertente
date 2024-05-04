@@ -8,7 +8,7 @@
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
