@@ -2,7 +2,8 @@
 
 ## Hi there! I am Abdellah, Junior Data Scientist
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=orange&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fyour-github-username%2Fyour-repo-name)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
