@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoid&size=36&color=092248&background=FFFFFF00&height=70&lines=%E2%B4%B0%E2%B5%8F%E2%B5%99%E2%B5%93%E2%B4%BC!;!%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Bienvenue!;Welcome!;Bienvenido!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoid&size=36&color=FFFFFF&background=FFFFFF00&height=70&lines=%E2%B4%B0%E2%B5%8F%E2%B5%99%E2%B5%93%E2%B4%BC!;!%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Bienvenue!;Welcome!;Bienvenido!)](https://git.io/typing-svg)
 
 ## Hi there! I am Abdellah, Junior Data Scientist
 
