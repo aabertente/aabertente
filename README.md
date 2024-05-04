@@ -2,8 +2,12 @@
 
 ## Hi there! I am Abdellah, Junior Data Scientist
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
- 
+- [visitor-badge](https://github.com/jwenjian/visitor-badge), a visitor count badge generator service for your Github Markdown files
+
+我还在维护一个[科技周刊](https://1link.fun), 每周分享 10 个有趣的链接, 欢迎关注.
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/jwenjian.jwenjian.svg)
+
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
