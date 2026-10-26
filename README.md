@@ -24,6 +24,6 @@
 <div align="center">
 
 <!-- Skill Icons - Visual Tech Stack -->
-<img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,c,cpp,python,html5,css3,sass,tailwind,bootstrap,js,mysql,sql,github,git,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,c,cpp,python,html,css,sass,tailwind,bootstrap,js,mysql,sql,github,git,vscode&perline=7" />
 
 <br>
