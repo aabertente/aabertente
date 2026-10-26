@@ -4,25 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=aabertente)
 
-**Languages and tools:**  
-
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
-
-## 🛠️ Tech Stack | المهارات التقنية
 
 <div align="center">
-
+## Programming & Design Skills
+  
 <!-- Skill Icons - Visual Tech Stack -->
 <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,c,cpp,python,flask,html,css,sass,tailwind,bootstrap,js,mysql,sqlite,anaconda,github,git,npm,vscode,atom,pycharm,stackoverflow,notion,obsidian,wordpress,arduino,ubuntu&perline=7"/>
 
