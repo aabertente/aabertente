@@ -3,6 +3,8 @@
 ## Hi there! I am Abdellah, a Graphic Designer and Junior Data Scientist
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/jwenjian.jwenjian.svg)
+<img src="https://komarev.com/ghpvc/?username=aabertente&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+![](https://komarev.com/ghpvc/?username=aabertente)
 
 **Languages and tools:**  
 
