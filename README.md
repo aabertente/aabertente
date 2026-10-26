@@ -24,6 +24,6 @@
 <div align="center">
 
 <!-- Skill Icons - Visual Tech Stack -->
-<img src="https://skillicons.dev/icons?i=laravel,php,react,typescript,rust,tailwind,alpinejs,mysql,sqlite,docker,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=figma,illustrator,Photoshop,tailwind,js,mysql,github,git,vscode&perline=7" />
 
 <br>
