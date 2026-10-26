@@ -26,12 +26,4 @@
 <!-- Skill Icons - Visual Tech Stack -->
 <img src="https://skillicons.dev/icons?i=laravel,php,react,typescript,rust,tailwind,alpinejs,mysql,sqlite,docker,git,github,vscode,figma&perline=7" />
 
-<br><br>
-
-<!-- Business Layer Badges -->
-<img src="https://img.shields.io/badge/Laravel%20TALL%20Stack-5%2B%20years-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri%20%2B%20React%20%2B%20Rust-Desktop%20Apps-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/CRM%20%2F%20ERP%20%2F%20Inventory-Systems%20Architecture-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Marketing-3%2B%20years%20certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-</div>
+<br>
