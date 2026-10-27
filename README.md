@@ -15,5 +15,4 @@
 <br>
 And I’m still continuing to learn new skills.
 <br>
-
 </div>
