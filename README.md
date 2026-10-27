@@ -11,7 +11,7 @@
   
 <!-- Skill Icons - Visual Tech Stack -->
 <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,c,cpp,python,flask,html,css,sass,tailwind,bootstrap,js,mysql,sqlite,anaconda,github,git,npm,vscode,atom,pycharm,stackoverflow,notion,obsidian,wordpress,arduino,ubuntu&perline=7"/>
-
+And I’m still continuing to learn new skills.
 <br>
 
 </div>
